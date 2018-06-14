@@ -39,6 +39,10 @@
   ],
   "devDependencies": {
     "ava": "*",
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-es2015-destructuring": "^6.23.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
     "into-stream": "^3.0.0",
     "xo": "*"
   },
